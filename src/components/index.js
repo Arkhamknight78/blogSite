@@ -1,4 +1,4 @@
-import Header from './Header/header.jsx'
+import Header from './Header/Header.jsx'
 import Footer from './Footer/footer.jsx'
 import Container from './container/Container.jsx'
 import Logo from './Logo.jsx'
