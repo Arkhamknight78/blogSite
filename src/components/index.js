@@ -1,5 +1,5 @@
 import Header from './Header/Header.jsx'
-import Footer from './Footer/footer.jsx'
+import Footer from './Footer/Footer.jsx'
 import Container from './container/Container.jsx'
 import Logo from './Logo.jsx'
 import LogoutBtn from './Header/LogoutBtn.jsx'
